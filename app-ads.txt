@@ -1,0 +1,4 @@
+# app-ads.txt for Pofu (docs/04 §7).
+# Replace this comment with the line AdMob gives you once the AdMob
+# account exists, e.g.:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
